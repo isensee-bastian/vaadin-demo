@@ -8,6 +8,8 @@ This is a demo project using Vaadin and Spring Boot. It provides following featu
 * The inactivity timeout counter runs down when no activity happens. In case of a click by the user, it is reset to its original value.
 * Once the timer reaches zero, the user is logged out automatically.
 
+![Login view](doc/login.png)
+![Dashboard with inactivity countdown](doc/dashboard.png)
 
 ## Running the Application
 
